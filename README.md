@@ -6,7 +6,7 @@ Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective
 
 ## Detailed Results 
 
-The detailed results from the comparison to leading algorithms on standard anticlustering problems are avaiable below≤: 
+The detailed results from the comparison to leading algorithms on standard anticlustering problems are avaiable below: 
 
 [Link to tables](tables/comparison_to_leading_algorithms.pdf)
 
