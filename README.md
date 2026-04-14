@@ -1,29 +1,31 @@
-# Detailed Results for Anticlustering in Euclidean Space
+# The Assignment-Based-Anticlustering Algorithm
 
-The detailed results for anticlustering in Euclidean space:
+The Assignment-Based-Anticlustering (ABA) Algorithm is a scalable algorithm for anticlustering in Euclidean spaces. The Python source code of the ABA algorithm can be found [here](https://github.com/phil85/aba). 
 
-[Comparison to leading algorithms on standard anticlustering instances](tables/comparison_to_leading_algorithms.pdf)
+A detailed description of the ABA algorithm as well as the main results of a computational study in which we compare the ABA algorithm to leading anticlustering algorithms can be found in the paper [A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm](https://arxiv.org/abs/2601.06351). Please note that the experiments in the paper were conducted using a C++ implementation of the ABA algorithm. Please contact Philipp Baumann (philipp.baumann@unibe.ch) if you are interested in the C++ version. 
+
+## Detailed Results for Anticlustering in Euclidean Space
+
+This repository provides detailed results from the computational in which we compare the performance of ABA with state-of-the-art algorithms.
 
 ## Reference
 
-Please cite the following paper if you use this repository.
+Please cite the following paper if you use the ABA algorithm.
 
-**Baumann, P., Goldschmidt O., Hochbaum, D. S., Yang, J.** (2025): Anticlustering in Euclidean space: an assignment-based algorithm. under review.
+Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm. arXiv paper.
 
 Bibtex:
 ```
-@article{hochbaum2024fast,
-	author={Baumann, Philipp, Goldschmidt Olivier, Hochbaum, Dorit S. and Yang Jason},
-	title = {Anticlustering in Euclidean space: an assignment-based algorithm},
-	year={2025},
-	journal = {under review},
+@misc{baumann2026fasteffectivemethodeuclidean,
+      title={A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm}, 
+      author={Philipp Baumann and Olivier Goldschmidt and Dorit S. Hochbaum and Jason Yang},
+      year={2026},
+      eprint={2601.06351},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.06351}, 
 }
 ```
-
-<!-- url = {https://arxiv.org/abs/2408.12183},
-doi = {https://doi.org/10.48550/arXiv.2408.12183}, -->
-
-<!-- [->Link to paper](https://arxiv.org/abs/2408.12183) -->
 
 ## License
 
