@@ -1,18 +1,24 @@
-# The Assignment-Based-Anticlustering Algorithm
+# The Assignment-Based-Anticlustering Algorithm - Computational Results
 
-The Assignment-Based-Anticlustering (ABA) Algorithm is a scalable algorithm for anticlustering in Euclidean spaces. The Python source code of the ABA algorithm can be found [here](https://github.com/phil85/aba). 
+The Assignment-Based-Anticlustering (ABA) Algorithm is a scalable algorithm for anticlustering in Euclidean spaces. This repository provides detailed results from the computational study in which we compare the Assignment-Based Anticlustering (ABA) algorithm to state-of-the-art anticlustering algorithms. 
 
-A detailed description of the ABA algorithm as well as the main results of a computational study in which we compare the ABA algorithm to leading anticlustering algorithms can be found in the paper [A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm](https://arxiv.org/abs/2601.06351). Please note that the experiments in the paper were conducted using a C++ implementation of the ABA algorithm. Please contact Philipp Baumann (philipp.baumann@unibe.ch) if you are interested in the C++ version. 
+## Source Code of the ABA Algorithm
+
+The Python source code of the ABA algorithm can be found [here](https://github.com/phil85/aba). Please note that the experiments in the paper were conducted using a C++ implementation of the ABA algorithm. Please contact Philipp Baumann (philipp.baumann@unibe.ch) if you are interested in the C++ version. 
+
+## Associated Paper
+
+A detailed description of the ABA algorithm as well as the main results of a computational study in which we compare the ABA algorithm to state-of-the-art anticlustering algorithms can be found in the paper 
+
+Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm. [https://arxiv.org/abs/2601.06351](https://arxiv.org/abs/2601.06351). 
 
 ## Detailed Results for Anticlustering in Euclidean Space
 
-This repository provides detailed results from the computational in which we compare the performance of ABA with state-of-the-art algorithms.
+[Comparison to leading algorithms on standard anticlustering instances](tables/comparison_to_leading_algorithms.pdf)
 
 ## Reference
 
 Please cite the following paper if you use the ABA algorithm.
-
-Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm. arXiv paper.
 
 Bibtex:
 ```
