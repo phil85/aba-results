@@ -8,7 +8,7 @@ Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective
 
 The detailed results from the comparison to leading algorithms for Euclidean anticlustering are avaiable below: 
 
-[Link to tables](tables/comparison_to_leading_algorithms.pdf)
+[Link to tables](Results_Comparison_To_Leading_Algorithms.pdf)
 
 ## Addtitional Results: Application of ABA to Euclidean Anticlustering with Categories
 
