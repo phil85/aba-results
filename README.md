@@ -4,11 +4,18 @@ The Assignment-Based-Anticlustering (ABA) Algorithm is a scalable algorithm for 
 
 Baumann, P., Goldschmidt O., Hochbaum D.S., Yang J. (2026). A Fast and Effective Method for Euclidean Anticlustering: The Assignment-Based-Anticlustering Algorithm. [https://arxiv.org/abs/2601.06351](https://arxiv.org/abs/2601.06351). 
 
-## Detailed Results 
+## Detailed Results: Comparison to Leading Algorithms for Euclidean Anticlustering
 
-The detailed results from the comparison to leading algorithms on standard anticlustering problems are avaiable below: 
+The detailed results from the comparison to leading algorithms for Euclidean anticlustering are avaiable below: 
 
 [Link to tables](tables/comparison_to_leading_algorithms.pdf)
+
+## Addtitional Results: Application of ABA to Euclidean Anticlustering with Categories
+
+The detailed results from the comparison to leading algorithms on anticlustering with categories are avaiable below: 
+
+[Link to results](Results_Anticlustering_with_categories)
+
 
 ## Source Code of the ABA Algorithm
 
