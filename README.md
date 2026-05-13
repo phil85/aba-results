@@ -14,7 +14,7 @@ The detailed results from the comparison to leading algorithms for Euclidean ant
 
 The detailed results from the comparison to leading algorithms on anticlustering with categories are avaiable below: 
 
-[Link to results](Results_Anticlustering_with_categories.pdf)
+[Link to results](Results_Anticlustering_With_Categories.pdf)
 
 
 ## Source Code of the ABA Algorithm
