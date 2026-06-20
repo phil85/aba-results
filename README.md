@@ -16,6 +16,11 @@ The detailed results from the comparison to leading algorithms on anticlustering
 
 [Link to results](Results_Anticlustering_With_Categories.pdf)
 
+## Addtitional Results: Application of ABA to Balanced K-Cut
+
+The detailed results from the comparison to METIS are avaiable below: 
+
+[Link to results](Results_Comparison_To_METIS.pdf)
 
 ## Source Code of the ABA Algorithm
 
